@@ -1,0 +1,13 @@
+Id,AntennaName,RetTilt,MaxTilt,MinTiltValue,MaxTxPower
+Antenna-001,Antenna-07Z,55,58,37,33.0
+Antenna-002,Antenna-1JD,60,65,43,29.0
+Antenna-003,Antenna-3fC,39,58,21,29.0
+Antenna-004,Antenna-c1l,23,58,16,26.0
+Antenna-005,Antenna-w3K,74,81,49,30.0
+Antenna-006,Antenna-tKw,22,38,13,30.0
+Antenna-007,Antenna-pMX,47,80,35,25.0
+Antenna-008,Antenna-3E0,73,86,61,29.0
+Antenna-009,Antenna-dH2,69,83,23,24.0
+Antenna-010,Antenna-Nak,40,60,38,30.0
+Antenna-011,Antenna-Dnp,38,50,20,33.0
+Antenna-012,Antenna-KHC,60,79,37,28.0
